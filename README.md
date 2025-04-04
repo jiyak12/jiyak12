@@ -1,7 +1,5 @@
-<!-- 🌌 Galaxy Masterhead with "Hello, World!" -->
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" alt="Starry Sky" width="100%"/>
-</p>
+[![MasterHead](https://www.pexels.com/video/woman-typing-while-sitting-on-the-floor-8721652)
+
 
 <h1 align="center">✨ Hello, World! ✨</h1>
 
