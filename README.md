@@ -5,7 +5,7 @@
 
 <!-- 🔄 Loading Bar GIF Section -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="300" alt="Loading Creativity..."/>
+  <img src="https://www.pexels.com/video/woman-typing-while-sitting-on-the-floor-8721652" width="300" alt="Loading Creativity..."/>
 </p>
 <h3 align="center">Loading ideas... Compiling curiosity... 🚀</h3>
 
