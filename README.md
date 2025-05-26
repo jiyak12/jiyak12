@@ -8,8 +8,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=jiyak12&theme=dark&hide_border=false)<br/>
 ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyak12&layout=compact&langs_count=10&theme=dark)
 
-
-
+## 🧠 My LeetCode Progress :
+![LeetCode Stats](https://leetcard.jacoblin.cool/justjiya_12?theme=dark&font=IM%20Fell%20DW%20Pica&ext=heatmap)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jiyak12&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
