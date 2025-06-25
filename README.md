@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76D57&width=700&lines=Hi%2C+I'm+Jiya+Kumari+%F0%9F%91%8B;An+Explorer+of+Ideas+%E2%9C%A8;Tech-Lover+with+a+Penchant+for+Creativity;I+Code+with+Purpose+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🎓 Pre-final year CSE student at KIIT, chasing bugs, bytes, and big opportunities!<br>🔭 Currently exploring and building -"Data Diaries"-- a series of mini-projects diving into real-world datasets, trends, and visual storytelling.<br>🌱 Currently learning Power BI and Google Data Studio<br>👯Love being part of the community to foster collaborative growth<br>🤝Looking for help with real-time data and real-life decisions(equally unpredictable)<br>📝Stay tuned to read my articles and poems!<br>⚡ Fun fact: I believe code is just another form of poetry — precise, powerful, and full of rhythm. Also, I can spend hours analyzing a dataset or a metaphor — depends on the mood 😌<br>
 
